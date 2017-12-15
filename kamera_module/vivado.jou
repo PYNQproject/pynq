@@ -1,0 +1,13 @@
+#-----------------------------------------------------------
+# Vivado v2016.4 (64-bit)
+# SW Build 1756540 on Mon Jan 23 19:11:23 MST 2017
+# IP Build 1755317 on Mon Jan 23 20:30:07 MST 2017
+# Start of session at: Fri Dec 15 11:22:47 2017
+# Process ID: 9856
+# Current directory: E:/Faks/4.godina/MultimedijskeArhitektureisustavi/Projekt/kamera_module
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent7304 E:\Faks\4.godina\MultimedijskeArhitektureisustavi\Projekt\kamera_module\kamera_module.xpr
+# Log file: E:/Faks/4.godina/MultimedijskeArhitektureisustavi/Projekt/kamera_module/vivado.log
+# Journal file: E:/Faks/4.godina/MultimedijskeArhitektureisustavi/Projekt/kamera_module\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project E:/Faks/4.godina/MultimedijskeArhitektureisustavi/Projekt/kamera_module/kamera_module.xpr
